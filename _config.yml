@@ -7,13 +7,13 @@
 # server process.
 
 # theme settings
-theme: "lone-wolf-theme"
+theme: #"lone-wolf-theme"
 remote_theme: "manid2/lone-wolf-theme"
-bootswatch_theme: "cerulean" # cerulean, spacelab, united
+bootswatch_theme: "spacelab" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "Lone Wol"
+title: "Lone Wolf"
 description: "A simple bootstrap based jekyll theme."
 url: # site url e.g. "https://manid2.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
