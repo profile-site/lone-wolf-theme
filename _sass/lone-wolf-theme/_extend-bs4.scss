@@ -30,7 +30,7 @@ a h2, .card h2 {
         /* fallback for old browsers */
         background: $color-bottom;
         /* Chrome 10-25, Safari 5.1-6 */
-        background: -webkit-linear-gradient(to top, $color-bottom, $color-top);
+        background: -webkit-linear-gradient($test);
         /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         background: linear-gradient(to top, $color-bottom, $color-top);
     }
